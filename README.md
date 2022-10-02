@@ -5,10 +5,14 @@ This repository is used to showcase the assignments I have done for the Fresh Gr
 
 # Folders
 
-Currently this repo only has 1 folder in it.
+Currently this repo has 2 folders in it.
+
+## Exercise week 1
+
+In this exercise, we used [Transjakarta Passengers in 2019](https://data.jakarta.go.id/dataset/data-jumlah-penumpang-trans-jakarta-tahun-2019-kpi) data provided by the Jakarta government to practice our SQL skill using BigQuery and [visualization skill](https://datastudio.google.com/s/r9wW84fGnsQ) using Google Data Studio. I have included not only the SQL queries I wrote, but also the CSV files containing the answer to each question. 
 
 ## Challenge 1
 
-In this folder, you can find the data we have to gather insight from, SQL queries I wrote to answer the questions given by our instrucutor, and CSV files containing said queries' results. Here, most of the explanations are written in Indonesian, as it focuses on COVID-19 data in Indonesia.
+In this folder, you can find the data we have to gather insight from and visualize later on, SQL queries I wrote to answer the questions from our instructor, and CSV files containing said queries' results. Here, most of the explanations are written in Indonesian, as it focuses on COVID-19 data in Indonesia.
 
 We were also tasked to make an insightful dashboard using Google Data Studio which can be accessed [here](https://datastudio.google.com/s/jhdgdxTTt18).
