@@ -19,4 +19,4 @@ We were also tasked to make an insightful dashboard using Google Data Studio whi
 
 ## Challenge 2
 
-This assignment challenged us to use our EDA, feature engineering, machine learning, and business knowledge to create a model which can automatically predict whether a customer is going to stop using an ISP's service by the end of the period or not. This challenge can be find in this repository, along with the train-test dataset and the final prediction for unseen data.
+This assignment challenged us to use our EDA, feature engineering, machine learning, and business knowledge to create a model which can automatically predict whether a customer is going to stop using an ISP's service by the end of the period or not. This challenge can be find in [this repository](https://github.com/syafa-kh/CustomerChurnML), along with the train-test dataset and the final prediction for unseen data.
