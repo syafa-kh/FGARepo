@@ -16,3 +16,7 @@ In this exercise, we used [Transjakarta Passengers in 2019](https://data.jakarta
 In this folder, you can find the data we have to gather insight from and visualize later on, SQL queries I wrote to answer the questions from our instructor, and CSV files containing said queries' results. Here, most of the explanations are written in Indonesian, as it focuses on COVID-19 data in Indonesia.
 
 We were also tasked to make an insightful dashboard using Google Data Studio which can be accessed [here](https://datastudio.google.com/s/jhdgdxTTt18).
+
+## Challenge 2
+
+This assignment challenged us to use our EDA, feature engineering, machine learning, and business knowledge to create a model which can automatically predict whether a customer is going to stop using an ISP's service by the end of the period or not. This challenge can be find in this repository, along with the train-test dataset and the final prediction for unseen data.
